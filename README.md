@@ -1,7 +1,7 @@
 # test coverage for  [how-to-npm (v2.4.2)](https://github.com/workshopper/how-to-npm#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-how-to-npm.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-how-to-npm) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-how-to-npm.svg)](https://travis-ci.org/npmtest/node-npmtest-how-to-npm)
 #### A module to teach you how to module.
 
-[![NPM](https://nodei.co/npm/how-to-npm.png?downloads=true)](https://www.npmjs.com/package/how-to-npm)
+[![NPM](https://nodei.co/npm/how-to-npm.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/how-to-npm)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-how-to-npm/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-how-to-npm/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-how-to-npm/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-how-to-npm/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-how-to-npm/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-how-to-npm/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-how-to-npm/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-how-to-npm/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-how-to-npm/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-how-to-npm/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-how-to-npm%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-how-to-npm/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-how-to-npm/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-how-to-npm/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-how-to-npm/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-how-to-npm%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-how-to-npm/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-how-to-npm/build/test-report.html](https://npmtest.github.io/node-npmtest-how-to-npm/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-how-to-npm/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-how-to-npm/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-how-to-npm/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-how-to-npm/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-how-to-npm/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-how-to-npm/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-how-to-npm/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +34,6 @@
 {
     "author": {
         "name": "Isaac Z. Schlueter",
-        "email": "i@izs.me",
         "url": "http://blog.izs.me/"
     },
     "bin": {
@@ -75,26 +80,21 @@
     "license": "ISC",
     "maintainers": [
         {
-            "name": "isaacs",
-            "email": "i@izs.me"
+            "name": "isaacs"
         },
         {
-            "name": "julianduque",
-            "email": "julianduquej@gmail.com"
+            "name": "julianduque"
         },
         {
-            "name": "tdd",
-            "email": "tdd@tddsworld.com"
+            "name": "tdd"
         },
         {
-            "name": "watilde",
-            "email": "daijiro.wachi@gmail.com"
+            "name": "watilde"
         }
     ],
     "name": "how-to-npm",
     "optionalDependencies": {},
     "preferGlobal": true,
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/workshopper/how-to-npm.git"
