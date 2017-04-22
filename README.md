@@ -1,4 +1,7 @@
-# test coverage for  [how-to-npm (v2.4.2)](https://github.com/workshopper/how-to-npm#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-how-to-npm.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-how-to-npm) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-how-to-npm.svg)](https://travis-ci.org/npmtest/node-npmtest-how-to-npm)
+# npmtest-how-to-npm
+
+#### basic test coverage for  [how-to-npm (v2.4.2)](https://github.com/workshopper/how-to-npm#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-how-to-npm.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-how-to-npm) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-how-to-npm.svg)](https://travis-ci.org/npmtest/node-npmtest-how-to-npm)
+
 #### A module to teach you how to module.
 
 [![NPM](https://nodei.co/npm/how-to-npm.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/how-to-npm)
