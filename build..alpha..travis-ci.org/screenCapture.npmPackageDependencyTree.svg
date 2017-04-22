@@ -59,7 +59,7 @@
 <tspan x="10" y="906">  │ │ ├── os-tmpdir@1.0.2 </tspan>
 <tspan x="10" y="922">  │ │ ├── osenv@0.1.4 </tspan>
 <tspan x="10" y="938">  │ │ ├── uuid@2.0.3 </tspan>
-<tspan x="10" y="954">  │ │ └─┬ write-file-atomic@1.3.1 </tspan>
+<tspan x="10" y="954">  │ │ └─┬ write-file-atomic@1.3.3 </tspan>
 <tspan x="10" y="970">  │ │   ├── imurmurhash@0.1.4 </tspan>
 <tspan x="10" y="986">  │ │   └── slide@1.1.6 </tspan>
 <tspan x="10" y="1002">  │ ├── is-npm@1.0.0 </tspan>
@@ -92,7 +92,7 @@
 <tspan x="10" y="1434">  │ │   │ ├── unzip-response@1.0.2 </tspan>
 <tspan x="10" y="1450">  │ │   │ └─┬ url-parse-lax@1.0.0 </tspan>
 <tspan x="10" y="1466">  │ │   │   └── prepend-http@1.0.4 </tspan>
-<tspan x="10" y="1482">  │ │   ├─┬ registry-auth-token@3.1.2 </tspan>
+<tspan x="10" y="1482">  │ │   ├─┬ registry-auth-token@3.2.0 </tspan>
 <tspan x="10" y="1498">  │ │   │ └─┬ rc@1.2.1 </tspan>
 <tspan x="10" y="1514">  │ │   │   ├── deep-extend@0.4.1 </tspan>
 <tspan x="10" y="1530">  │ │   │   ├── ini@1.3.4 </tspan>
